@@ -1,0 +1,3 @@
+# exercise 5.8
+
+SELECT * FROM hotel WHERE city = 'london';
